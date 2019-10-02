@@ -1,0 +1,45 @@
+/* THIS IS YOUR CSS FILE */
+header {
+   background: #7a0019;
+   color: #ffffff;
+   padding: 50px;
+}
+
+section {
+   padding: 15px;
+}
+
+h2 {
+    color: #ffcc33;
+    padding: 5px;
+}
+
+h3 {
+    padding: 5px;
+}
+p {
+    padding: 5px;
+}
+
+img.small {
+    width: 330px;
+    height: 220px;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    padding: 10px;
+    color: #ffffff
+}
+
+img.small2 {
+    width: 220px;
+    height: auto;
+}
+
+img.small3 {
+    width: 220px;
+    height: auto;
+}
